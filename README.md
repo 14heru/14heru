@@ -18,7 +18,6 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-### 🛠️ Tumpukan Teknologi & Alat
 
 <div align="center">
 
