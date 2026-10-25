@@ -40,11 +40,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=14heru&show_icons=true&theme=radical&hide_border=true" alt="14heru's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=14heru&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
